@@ -1,0 +1,12 @@
+# index:
+- https://www.webshare.io/l/residential-proxy
+- https://smartproxy.com/proxies/residential-proxies, https://smartproxy.com/lp/fastest-residential-proxies
+- https://netnut.io/lp/residential-proxies/
+- https://www.lunaproxy.com/
+- https://oxylabs.io/products/residential-proxy-pool
+- https://brightdata.com/proxy-types/residential-proxies
+- https://iproyal.com/residential-proxies/
+- https://www.webshare.io/residential-proxy
+- https://geonode.com/
+- https://www.ipburger.com/
+- https://www.limeproxies.com/residential-proxy
